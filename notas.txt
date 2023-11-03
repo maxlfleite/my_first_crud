@@ -1,0 +1,4 @@
+1. adicionar outro crud - time - 
+2. relacionar time / jogador, colocar a posição do jogador no time
+3. validação para não adicionar o mesmo jogador 2x, nem adicionar jogador que já está em outro time
+4. 
